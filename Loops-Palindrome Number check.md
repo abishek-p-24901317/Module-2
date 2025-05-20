@@ -35,4 +35,4 @@ else:
 ![438319260-f5719231-1cc7-443a-9942-d40ff7ec1748](https://github.com/user-attachments/assets/a72f9e21-cc23-4b3f-8df7-bbee06f3c80e)
 
 ## Result
-![438319260-f5719231-1cc7-443a-9942-d40ff7ec1748](https://github.com/user-attachments/assets/a72f9e21-cc23-4b3f-8df7-bbee06f3c80e)
+Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
